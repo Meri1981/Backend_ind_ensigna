@@ -20,14 +20,6 @@ document.getElementById("header").innerHTML=`<nav class="navbar navbar-expand-sm
                   
               </div>
           </li>
-
-          <li class="nav-item">
-              <a class="nav-link" href="#">CONTACTANOS</a>
-          </li>
-
-          <li class="nav-item">
-              <a class="nav-link" href="#">NOSOTROS</a>
-          </li>
       </ul>
   </div>
 </div>
